@@ -26,10 +26,10 @@ The tool supports four connection-string formats:
 
 **Examples**
 ```text
-ftp.example.com|username|password
-ftp.example.com#username@password
-ftp.example.com#username:password
-ftp.example.com:21:username:password
+example.com|username|password
+example.com#username@password
+example.com#username:password
+example.com:21:username:password
 ```
 
 ## ⚙️ Requirements
