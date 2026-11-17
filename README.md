@@ -70,7 +70,7 @@ pip install colorama
 Run the script:
 
 ```bash
-python ftp_checker.py
+python FTP.py
 ```
 
 ### Available Modes
