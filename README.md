@@ -24,26 +24,6 @@
 
 The tool supports four connection-string formats:
 
-**1. Pipe Format**
-```text
-HOST|USERNAME|PASSWORD
-```
-
-**2. Hash with @ Format**
-```text
-HOST#USERNAME@PASSWORD
-```
-
-**3. Hash with Colon Format**
-```text
-HOST#USERNAME:PASSWORD
-```
-
-**4. Colon Format with Custom Port**
-```text
-HOST:PORT:USERNAME:PASSWORD
-```
-
 **Examples**
 ```text
 ftp.example.com|username|password
