@@ -1,5 +1,4 @@
 # 💀 FTP-ShadowProbe
-🕶️ Python-based FTP/FTPS security auditing tool with multithreading, authentication analysis, directory enumeration, and connection validation.
 <img width="1220" height="599" alt="image" src="https://github.com/user-attachments/assets/51ad3aa7-7912-4ec8-a8f1-566253ea87f3" />
 
 > 🕶️ **ENTER THE SHADOWS. SCAN THE NETWORK.**
